@@ -12,8 +12,8 @@
  */
 definition(
     name: "Door Bell App",
-    namespace: "smartthingsdoorbell",
-    author: "Steven Dale",
+    namespace: "tmleafs",
+    author: "tmleafs",
     description: "Get a push notification for Custom Made Door Bell see http://tinyurl.com/hl6dh8l.",
     category: "Convenience",
     iconUrl: "https://s3.amazonaws.com/smartapp-icons/Convenience/Cat-Convenience.png",
