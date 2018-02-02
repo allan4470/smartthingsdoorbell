@@ -12,7 +12,7 @@
  */
 definition(
     name: "Door Bell App",
-    namespace: "doorbelldale",
+    namespace: "smartthingsdoorbell",
     author: "Steven Dale",
     description: "Get a push notification for Custom Made Door Bell see http://tinyurl.com/hl6dh8l.",
     category: "Convenience",
